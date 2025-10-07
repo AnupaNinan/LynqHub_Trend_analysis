@@ -47,9 +47,16 @@ Key Metrics :
 <summary> 🟢 Analysis Roadmap </summary>
 
 - [Executive Summary](#executive-summary)
-- [Deep Dive Insights](#insights-deep-dive)
+- [Insights Deep Dive](#insights-deep-dive)
+  - [Growth & Seasonal Trends](#growth--seasonal-trends)
+  - [Product Trends](#product-trends)
+  - [Geographical Trends](#geographical-trends)
+  - [Loyalty Program](#loyalty-program)
+  - [Refund Rates](#refund-rates)
+    - [Spotlight: Apple Products](#spotlight-apple-products)
 - [Recommendations](#recommendations)
 - [Appendix](#appendix)
+
 
 </details>
 
@@ -100,7 +107,7 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 </ul>
 
 # Insights Deep Dive
-
+## Growth Trends
 <p align="center">
   <img src="https://github.com/user-attachments/assets/47ef0da6-57fe-4ca1-ba99-4f377a8c0e12" alt="Total Sales" width="33%" height="260">
   <img src="https://github.com/user-attachments/assets/ef2fd168-4f48-4123-8a87-caccd9bb6e64" alt="AOV" width="33%" height="260">
@@ -111,7 +118,7 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 <ul style="list-style-type: circle;">
   <li><b>Volatility & Peaks:</b> The Total Sales trend shows significant month-to-month volatility, especially between late <b>2019</b> and mid-<b>2020</b>, where growth peaked around <b>+50%</b>. These surges coincide with high-order months and likely reflect short-term demand spikes such as pandemic-related buying behavior.</li>
   <li><b>Sharp Declines:</b> Following each surge, sharp contractions of <b>−30% to −50%</b> indicate that sales are highly reactive to external demand triggers rather than driven by steady organic growth.</li>
-  <li><b>Post-2021 Flattening:</b> After <b>2021</b>, growth rates stabilized below <b>+10%</b>, suggesting LyncHub entered a <b>plateau phase</b> with limited new customer acquisition or expansion opportunities.</li>
+  <li><b>Post-2021 Flattening:</b> After <b>2021</b>, growth rates stabilized below <b>+10%</b>, suggesting LynqHub entered a <b>plateau phase</b> with limited new customer acquisition or expansion opportunities.</li>
 </ul>
 
 <p><b>Recommendations:</b></p>
@@ -138,7 +145,6 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 </ul>
 
 <br>
-
 <p><b>Order Count – Growth Insights</b></p>
 <ul style="list-style-type: circle;">
   <li><b>Sharp Cyclical Movements:</b> The Order Count chart reveals frequent, steep MoM shifts with highs of <b>+40–45%</b> and lows reaching <b>−47%</b>, reflecting strong seasonal dependency or reliance on marketing campaigns.</li>
@@ -152,9 +158,37 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
   <li><b>Boost Off-Season Engagement:</b> Use micro-campaigns and limited-time offers during slower months to maintain consistent order flow.</li>
   <li><b>Optimize Conversion Funnel:</b> Evaluate checkout and cart abandonment data to streamline the purchasing process and lift completion rates.</li>
 </ul>
-
 <br>
 
+## Seasonal Trends
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/576b563d-65c1-4f23-8936-ea0a06c1f582" 
+       alt="Seasonal Trends" 
+       width="800" 
+       height="260">
+</p>
+
+<ul style="list-style-type: circle;">
+  <li><b>Strong Year-End and Fall Performance:</b> 
+  <b>September</b> and <b>December</b> were the top-performing months, with sales surging <b>+13–23%</b> and order growth above <b>+10%</b>. These peaks align with back-to-school demand and the holiday shopping season, confirming clear <b>Q4 seasonality</b>.</li>
+
+  <li><b>Mid-Year Slowdowns:</b> 
+  <b>February</b> and <b>June</b> saw the weakest performance, with sales dropping <b>−9% to −25%</b> and orders down <b>−8% to −27%</b>. These troughs reflect post-holiday and mid-year lulls in consumer activity.</li>
+
+  <li><b>High-Value Orders in Late Q3–Q4:</b> 
+  Average Order Value (AOV) peaked between <b>August–October</b> ($263–$272), suggesting stronger product mix or premium purchases during late-year campaigns, even when order counts dipped.</li>
+
+  <li><b>Sharp Declines in October:</b> 
+  Despite the highest AOV ($272), <b>October</b> saw total sales and orders fall by nearly <b>−28% to −29%</b>, highlighting over-reliance on fewer high-value transactions and missed pre-holiday conversion opportunities.</li>
+</ul>
+
+<p><b>Recommendations:</b></p>
+<ul style="list-style-type: circle;">
+  <li><b>Leverage Q3–Q4 Peaks:</b> Begin marketing push from <b>August</b> onward to maximize back-to-school and holiday season growth.</li>
+  <li><b>Address Low Months:</b> Run targeted promotions or loyalty rewards in <b>February</b> and <b>June</b> to stabilize post-holiday and mid-year dips.</li>
+  <li><b>Boost October Retention:</b> Convert high AOV traffic into higher order counts via bundle discounts or limited-time campaigns.</li>
+  <li><b>Maintain AOV Strength:</b> Continue emphasizing premium upsells and value-based bundles to sustain per-order profitability year-round.</li>
+</ul>
 
 
 # Appendix
