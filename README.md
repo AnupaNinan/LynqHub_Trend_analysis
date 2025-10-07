@@ -48,7 +48,7 @@ Key Metrics :
 
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
-  - [Growth & Seasonal Trends](#growth--seasonal-trends)
+  - [Growth & Seasonal Trends](#growth-trends)
   - [Product Trends](#product-trends)
   - [Geographical Trends](#geographical-trends)
   - [Loyalty Program](#loyalty-program)
@@ -190,6 +190,41 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
   <li><b>Maintain AOV Strength:</b> Continue emphasizing premium upsells and value-based bundles to sustain per-order profitability year-round.</li>
 </ul>
 
+## Product Trends
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0ca7eba8-420c-495d-b951-35e30e3bafbb" 
+       alt="Product Trends" 
+       width="1000" 
+       height="500">
+</p>
+<ul>
+  <li><b>Revenue Concentration Risk:</b> The top three products contribute the majority of total revenue, signaling a potential dependency on a limited product mix. Diversifying beyond high-performing categories could mitigate risk from market saturation or inventory shifts.</li>
+
+  <li><b>Accessory-Driven Volume Growth:</b> Lower-priced accessories like <b>Samsung Cable Packs</b> and <b>Webcams</b> consistently deliver strong order counts, reinforcing their role as high-frequency, entry-level purchases that help sustain customer engagement and repeat transactions.</li>
+
+  <li><b>Yearly Demand Cycles by Category:</b> Premium devices such as <b>MacBook Air</b> and <b>4K Monitors</b> show sharp year-over-year swings tied to upgrade or replacement cycles, while accessories maintain steadier sales. This contrast suggests opportunities for staggered promotion strategies to balance cyclical revenue dips.</li>
+
+  <li><b>Brand Dominance and Ecosystem Synergy:</b> <b>Apple products</b> collectively command a large share of both high-value and high-volume segments, reflecting strong brand pull. Aligning marketing and bundling strategies around Apple’s ecosystem (e.g., <b>AirPods + MacBook</b> packages) could amplify overall conversion rates.</li>
+</ul>
+
+## Geographic Trends
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b3c8f367-7fb5-43bd-a2a1-3914da34c409" 
+       alt="Product Trends" 
+       width="1000" 
+       height="600">
+</p>
+<ul>
+  <li><b>North America (US & CA):</b> Accounts for <b>66% of total sales</b>, led by the <b>US (61%)</b> with an <b>AOV of $262</b>. This reflects LyncHub’s strongest customer base and highest transaction volumes.</li>
+
+  <li><b>Europe (EMEA):</b> Contributes around <b>22%</b> of total revenue, with the <b>UK (10%)</b> as the key market. <b>The Netherlands ($289)</b> and <b>Germany ($270)</b> report the <b>highest AOVs</b> in the region, indicating premium purchasing behavior.</li>
+
+  <li><b>Asia-Pacific (APAC):</b> Although smaller in sales volume, the region records the <b>highest AOV ($393 in Japan)</b>, suggesting fewer but more valuable transactions that could be expanded through targeted marketing.</li>
+
+  <li><b>Latin America (LATAM):</b> Currently underdeveloped, contributing minimal revenue despite a <b>mid-range AOV of $251</b>. This signals <b>untapped growth potential</b> through regional partnerships and localized promotions.</li>
+</ul>
 
 # Appendix
 
