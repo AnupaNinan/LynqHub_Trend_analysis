@@ -58,10 +58,10 @@ Key Metrics :
 <img width="1263" height="709" alt="image" src="https://github.com/user-attachments/assets/8fdcb7d5-5683-4e7b-9ac9-dbbe050e80c6" />
 
 
-<p><b>LyncHub Performance Summary (2018–2022)</b></p>
+<p><b>LynqHub Performance (2018–2022)</b></p>
 
 <p>
-LyncHub recorded a strong upward trajectory from <b>2018 through early 2020</b>, achieving <b>total sales of approximately $26 million</b> and processing over <b>102,000 orders</b> across the five-year period. 
+LynqHub recorded a strong upward trajectory from <b>2018 through early 2020</b>, achieving <b>total sales of approximately $26 million</b> and processing over <b>102,000 orders</b> across the five-year period. 
 The company’s <b>average order value (AOV)</b> over this timeframe stood at roughly <b>$255 per order</b>, underscoring consistent purchasing behavior and healthy transaction sizes.
 </p>
 
@@ -71,7 +71,7 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
     <ul style="list-style-type: circle;">
       <li>Between 2018 and early 2020, order volume <b>nearly doubled (+95%)</b>, indicating rapid expansion and sustained demand growth.</li>
       <li>This surge in orders <b>propelled sales growth of over 50% year-over-year</b>, marking one of the company’s strongest upward trends to date.</li>
-      <li>In <b>2020</b>, LyncHub reached its <b>highest performance point</b>, with <b>sales exceeding $9 million</b>, driven by surging demand and an expanding online customer base.</li>
+      <li>In <b>2020</b>, LynqHub reached its <b>highest performance point</b>, with <b>sales exceeding $9 million</b>, driven by surging demand and an expanding online customer base.</li>
       <li>The <b>average order value (AOV)</b> peaked at approximately <b>$275</b>, reflecting a shift toward higher-value products and stronger digital conversions during the pandemic period.</li>
     </ul>
   </li>
@@ -80,7 +80,7 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 <ul>
   <li><b>Post-2020 Decline and Market Stabilization</b>
     <ul style="list-style-type: circle;">
-      <li>Following the <b>2020 peak</b>, LyncHub’s <b>sales momentum weakened</b>, signaling the start of a downward trend after a period of exceptional growth.</li>
+      <li>Following the <b>2020 peak</b>, LynqHub’s <b>sales momentum weakened</b>, signaling the start of a downward trend after a period of exceptional growth.</li>
       <li><b>Total revenue declined by about 15% in 2021</b> and fell even more sharply—<b>by approximately 45–50% in 2022</b>—bringing yearly sales down to nearly <b>$4.5 million</b>.</li>
       <li><b>Order count mirrored this decline</b>, dropping by <b>more than half (−55%)</b> compared to its 2020 high, underscoring a broad contraction in customer demand.</li>
       <li>The <b>average order value (AOV)</b> decreased moderately, stabilizing around <b>$240–$250 per order</b>, suggesting that the downturn was primarily <b>volume-driven rather than pricing-related</b>.</li>
