@@ -99,6 +99,63 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
   </li>
 </ul>
 
+# Insights Deep Dive
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47ef0da6-57fe-4ca1-ba99-4f377a8c0e12" alt="Total Sales" width="33%" height="260">
+  <img src="https://github.com/user-attachments/assets/ef2fd168-4f48-4123-8a87-caccd9bb6e64" alt="AOV" width="33%" height="260">
+  <img src="https://github.com/user-attachments/assets/47030e77-a99a-4320-8df9-0037f394a3d2" alt="Order Count" width="33%" height="260">
+</p>
+
+<p><b>Total Sales – Growth Insights</b></p>
+<ul style="list-style-type: circle;">
+  <li><b>Volatility & Peaks:</b> The Total Sales trend shows significant month-to-month volatility, especially between late <b>2019</b> and mid-<b>2020</b>, where growth peaked around <b>+50%</b>. These surges coincide with high-order months and likely reflect short-term demand spikes such as pandemic-related buying behavior.</li>
+  <li><b>Sharp Declines:</b> Following each surge, sharp contractions of <b>−30% to −50%</b> indicate that sales are highly reactive to external demand triggers rather than driven by steady organic growth.</li>
+  <li><b>Post-2021 Flattening:</b> After <b>2021</b>, growth rates stabilized below <b>+10%</b>, suggesting LyncHub entered a <b>plateau phase</b> with limited new customer acquisition or expansion opportunities.</li>
+</ul>
+
+<p><b>Recommendations:</b></p>
+<ul style="list-style-type: circle;">
+  <li><b>Implement Predictive Demand Planning:</b> Use historical MoM data to forecast demand surges and optimize marketing and inventory cycles to reduce volatility.</li>
+  <li><b>Diversify Product Portfolio:</b> Introduce new categories or complementary products to smooth out revenue fluctuations across months.</li>
+  <li><b>Maintain Marketing Continuity:</b> Develop ongoing loyalty or subscription programs to promote consistent engagement and prevent post-peak drop-offs.</li>
+</ul>
+
+<br>
+
+<p><b>Average Order Value (AOV) – Growth Insights</b></p>
+<ul style="list-style-type: circle;">
+  <li><b>Moderate Fluctuations:</b> AOV shows smaller, more controlled swings ranging from <b>+18%</b> to <b>−16%</b>, reflecting relatively stable transaction values compared to total sales or order count.</li>
+  <li><b>Seasonal Spikes:</b> Noticeable AOV increases of <b>10–18%</b> are likely tied to promotional or festive months, suggesting effective short-term upselling or premium product interest.</li>
+  <li><b>Recent Downtrend:</b> The recent pattern shows more declines than gains, indicating a <b>gradual reduction in average spend per order</b>—possibly due to discount dependency or lower-priced product preferences.</li>
+</ul>
+
+<p><b>Recommendations:</b></p>
+<ul style="list-style-type: circle;">
+  <li><b>Encourage Upselling & Bundling:</b> Create bundled offerings and value-based upgrades to lift average transaction values during regular months.</li>
+  <li><b>Limit Excessive Discounting:</b> Replace heavy discounts with loyalty rewards or free-shipping thresholds to maintain AOV stability without margin erosion.</li>
+  <li><b>Customer Segmentation:</b> Identify high-value customer segments and personalize campaigns to target premium buyers more effectively.</li>
+</ul>
+
+<br>
+
+<p><b>Order Count – Growth Insights</b></p>
+<ul style="list-style-type: circle;">
+  <li><b>Sharp Cyclical Movements:</b> The Order Count chart reveals frequent, steep MoM shifts with highs of <b>+40–45%</b> and lows reaching <b>−47%</b>, reflecting strong seasonal dependency or reliance on marketing campaigns.</li>
+  <li><b>Pandemic Boom & Correction:</b> Early <b>2020</b> shows clear pandemic-driven growth, followed by consistent declines from <b>2021</b> onward—signaling a reversion to pre-pandemic purchasing levels.</li>
+  <li><b>Recent Stabilization:</b> By <b>2022</b>, order count growth stabilized near zero, pointing to challenges in retaining customers and sustaining repeat purchases.</li>
+</ul>
+
+<p><b>Recommendations:</b></p>
+<ul style="list-style-type: circle;">
+  <li><b>Strengthen Customer Retention:</b> Launch reactivation campaigns, loyalty points, and referral incentives to increase repeat purchases and mitigate churn.</li>
+  <li><b>Boost Off-Season Engagement:</b> Use micro-campaigns and limited-time offers during slower months to maintain consistent order flow.</li>
+  <li><b>Optimize Conversion Funnel:</b> Evaluate checkout and cart abandonment data to streamline the purchasing process and lift completion rates.</li>
+</ul>
+
+<br>
+
+
 
 # Appendix
 
