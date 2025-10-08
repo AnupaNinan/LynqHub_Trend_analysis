@@ -48,7 +48,8 @@ Key Metrics :
 
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
-  - [Growth & Seasonal Trends](#growth-trends)
+  - [Growth Trends](#growth-trends)
+  - [Seasonal Trends](#seasonal-trends)
   - [Product Trends](#product-trends)
   - [Geographical Trends](#geographical-trends)
   - [Loyalty Program](#loyalty-program)
@@ -225,6 +226,34 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 
   <li><b>Latin America (LATAM):</b> Currently underdeveloped, contributing minimal revenue despite a <b>mid-range AOV of $251</b>. This signals <b>untapped growth potential</b> through regional partnerships and localized promotions.</li>
 </ul>
+
+## Loyalty Program
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e049236a-aa13-4297-93be-a10cb8cb8522" 
+       alt="Product Trends" 
+       width="1000" 
+       height="600">
+</p>
+
+<ul style="list-style-type: circle;">
+  <li><b>Sales Mix Shift:</b> loyalty sales have overtaken non-loyalty, indicating successful migration from one-time purchases to member transactions and a healthier repeat base.</li>
+
+  <li><b>Order Volume Momentum:</b> Member order count shows steadier month-to-month growth than guests, suggesting improved retention and higher purchase frequency among enrolled customers.</li>
+
+  <li><b>AOV Convergence:</b> The gap in average order value between cohorts has narrowed; member AOV now matches or slightly exceeds guest AOV, implying that benefits (points, free shipping thresholds, bundles) are lifting basket size without excessive discounting.</li>
+
+  <li><b>Stability vs. Spikes:</b> guest activity is more promotion-driven and volatile, while member spend is smoother—pointing to a more predictable revenue stream from the program.</li>
+</ul>
+
+<p><b>Recommendations</b></p>
+<ul style="list-style-type: circle;">
+  <li><b>Double-Down on Enrollment:</b> Surface sign-up CTAs on PDP/checkout and offer first-purchase points to convert high-intent guests into members.</li>
+  <li><b>Tiered Value & Bundles:</b> Introduce tier perks (early access, higher point multipliers) and member-only bundles to maintain AOV parity and lift order frequency.</li>
+  <li><b>Reactivation Journeys:</b> Use points-expiry nudges and “complete your status” emails to bring lapsed members back during off-season months.</li>
+  <li><b>Measure Incrementality:</b> Track cohort KPIs (90-day repeat rate, orders/member/month, AOV by tier) to quantify program lift and reduce broad discounting for guests.</li>
+</ul>
+
 
 # Appendix
 
