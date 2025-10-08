@@ -54,8 +54,7 @@ Key Metrics :
   - [Geographical Trends](#geographical-trends)
   - [Loyalty Program](#loyalty-program)
   - [Refund Rates](#refund-rates)
-    - [Spotlight: Apple Products](#spotlight-apple-products)
-- [Recommendations](#recommendations)
+- [Interactive Dashboard](#interactive-dashboard)
 - [Appendix](#appendix)
 
 
@@ -208,7 +207,7 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
   <li><b>Brand Dominance and Ecosystem Synergy:</b> <b>Apple products</b> collectively command a large share of both high-value and high-volume segments, reflecting strong brand pull. Aligning marketing and bundling strategies around Apple’s ecosystem (e.g., <b>AirPods + MacBook</b> packages) could amplify overall conversion rates.</li>
 </ul>
 
-## Geographic Trends
+## Geographical Trends
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/b3c8f367-7fb5-43bd-a2a1-3914da34c409" 
@@ -289,6 +288,24 @@ Post-2021, refund volumes stabilized, suggesting <b>improvements in product reli
     </ul>
   </li>
 </ul>
+
+# Interactive Dashboard
+
+<p align="left">
+  <b>Discover the story behind the data:</b><br>
+  Explore dynamic trends in sales, AOV, refunds, and marketing performance through this interactive Tableau dashboard.<br>
+  <a href="https://public.tableau.com/app/profile/anupa.ninan/viz/Elist_Analysis/Summary?publish=yes" target="_blank">
+    🔗 <b>View Interactive Dashboard</b>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c830b956-64d1-4829-af8c-f938c95d5c47" />
+"
+       alt="Elist Sales Dashboard"
+       width="1000"
+       height="800">
+</p>
 
 
 
