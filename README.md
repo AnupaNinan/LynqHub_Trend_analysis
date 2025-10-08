@@ -159,7 +159,6 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
   <li><b>Boost Off-Season Engagement:</b> Use micro-campaigns and limited-time offers during slower months to maintain consistent order flow.</li>
   <li><b>Optimize Conversion Funnel:</b> Evaluate checkout and cart abandonment data to streamline the purchasing process and lift completion rates.</li>
 </ul>
-<br>
 
 ## Seasonal Trends
 <p align="left">
@@ -217,15 +216,17 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
        width="1000" 
        height="600">
 </p>
+
 <ul>
-  <li><b>North America (US & CA):</b> Accounts for <b>66% of total sales</b>, led by the <b>US (61%)</b> with an <b>AOV of $262</b>. This reflects LyncHub’s strongest customer base and highest transaction volumes.</li>
+  <li><b>Best Performing Market:</b> <b>North America (US & CA)</b> – Accounts for <b>66% of total sales</b>, led by the <b>US (61%)</b> with an <b>AOV of $262</b>. This region represents LyncHub’s strongest customer base and the highest transaction volumes, driving the majority of company revenue.</li>
 
-  <li><b>Europe (EMEA):</b> Contributes around <b>22%</b> of total revenue, with the <b>UK (10%)</b> as the key market. <b>The Netherlands ($289)</b> and <b>Germany ($270)</b> report the <b>highest AOVs</b> in the region, indicating premium purchasing behavior.</li>
+  <li><b> High-Value Market:</b> <b>Asia-Pacific (APAC)</b> – Though smaller in total sales volume, this region delivers the <b>highest AOV globally ($393 in Japan)</b>. It reflects premium purchasing behavior and potential for expansion through targeted marketing strategies.</li>
 
-  <li><b>Asia-Pacific (APAC):</b> Although smaller in sales volume, the region records the <b>highest AOV ($393 in Japan)</b>, suggesting fewer but more valuable transactions that could be expanded through targeted marketing.</li>
+  <li><b> Strong Growth Market:</b> <b>Europe (EMEA)</b> – Contributes <b>22% of total revenue</b>, with the <b>UK (10%)</b> as the top European market. <b>The Netherlands ($289)</b> and <b>Germany ($270)</b> lead in regional AOV, indicating high-value customers and strong demand for quality products.</li>
 
-  <li><b>Latin America (LATAM):</b> Currently underdeveloped, contributing minimal revenue despite a <b>mid-range AOV of $251</b>. This signals <b>untapped growth potential</b> through regional partnerships and localized promotions.</li>
+  <li><b>Underperforming Market:</b> <b>Latin America (LATAM)</b> – Currently underdeveloped, contributing minimal revenue despite a <b>mid-range AOV of $251</b>. Represents untapped growth potential through regional partnerships, localized promotions, and improved brand visibility.</li>
 </ul>
+
 
 ## Loyalty Program
 
@@ -253,6 +254,42 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
   <li><b>Reactivation Journeys:</b> Use points-expiry nudges and “complete your status” emails to bring lapsed members back during off-season months.</li>
   <li><b>Measure Incrementality:</b> Track cohort KPIs (90-day repeat rate, orders/member/month, AOV by tier) to quantify program lift and reduce broad discounting for guests.</li>
 </ul>
+
+## Refund Rates
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b9c496f4-1ae1-4458-8881-9469e1425095" 
+       alt="Product Trends" 
+       width="1000" 
+       height="800">
+</p>
+<p>Brand-level analysis reveals that <b>Apple (58%)</b> and <b>Gaming Monitor Brands (27%)</b> together account for the majority of refunds, totaling over <b>3,700 returns</b>. 
+Samsung and Lenovo follow with smaller shares of <b>9%</b> and <b>6%</b> respectively.</p>
+
+<p>Year-over-year trends show a <b>sharp spike in refund rates in 2020 (50%)</b>, likely tied to the pandemic’s surge in online purchases and supply-chain challenges, 
+followed by a <b>gradual recovery to 20% in 2021</b>. 
+Post-2021, refund volumes stabilized, suggesting <b>improvements in product reliability and after-sales service.</b></p>
+
+<ul>
+  <li><b>Key Insights:</b>
+    <ul style="list-style-type: circle;">
+      <li><b>Apple</b> products show the highest refund volume, indicating both high sales and elevated quality concerns or post-purchase dissatisfaction.</li>
+      <li><b>Gaming Monitors</b> represent 27% of all returns — primarily due to performance variability and product compatibility issues.</li>
+      <li><b>2020</b> marked an exceptional spike in returns, accounting for over half of total refunds, reflecting global buying disruptions and shipping constraints.</li>
+      <li>Refund rates <b>declined post-2021</b>, signaling better product quality control and more consistent customer experiences.</li>
+    </ul>
+  </li>
+
+  <li><b> Recommendations:</b>
+    <ul style="list-style-type: circle;">
+      <li><b>Improve Apple & Gaming Monitor Quality Review Cycles:</b> Focus on pre-shipment testing and early defect detection to reduce return rates.</li>
+      <li><b>Implement Refund Prediction Analytics:</b> Use historical refund data to flag at-risk SKUs and proactively address quality or support gaps.</li>
+      <li><b>Enhance Product Descriptions & Demos:</b> Reduce returns from unmet expectations by improving accuracy and visual clarity in online listings.</li>
+      <li><b>Localized Support Initiatives:</b> Offer faster replacements and clearer return workflows in regions with high refund concentration (NA & EMEA).</li>
+    </ul>
+  </li>
+</ul>
+
 
 
 # Appendix
