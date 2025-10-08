@@ -300,14 +300,11 @@ Post-2021, refund volumes stabilized, suggesting <b>improvements in product reli
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c830b956-64d1-4829-af8c-f938c95d5c47" />
-"
+  <img src="https://github.com/user-attachments/assets/c830b956-64d1-4829-af8c-f938c95d5c47"
        alt="Elist Sales Dashboard"
        width="1000"
        height="800">
 </p>
-
-
 
 # Appendix
 
