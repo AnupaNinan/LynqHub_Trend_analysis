@@ -62,8 +62,7 @@ Key Metrics :
 
 # Executive Summary
 
-<img width="1263" height="709" alt="image" src="https://github.com/user-attachments/assets/8fdcb7d5-5683-4e7b-9ac9-dbbe050e80c6" />
-
+<img width="1615" height="911" alt="image" src="https://github.com/user-attachments/assets/d83d10b5-e1ae-4356-afac-17eade798d65" />
 
 <p><b>LynqHub Performance (2018–2022)</b></p>
 
@@ -109,9 +108,9 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 # Insights Deep Dive
 ## Growth Trends
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47ef0da6-57fe-4ca1-ba99-4f377a8c0e12" alt="Total Sales" width="33%" height="260">
-  <img src="https://github.com/user-attachments/assets/ef2fd168-4f48-4123-8a87-caccd9bb6e64" alt="AOV" width="33%" height="260">
-  <img src="https://github.com/user-attachments/assets/47030e77-a99a-4320-8df9-0037f394a3d2" alt="Order Count" width="33%" height="260">
+  <img src="https://github.com/user-attachments/assets/47ef0da6-57fe-4ca1-ba99-4f377a8c0e12" alt="Total Sales" width="330" height="500">
+  <img src="https://github.com/user-attachments/assets/822971c6-4830-4bf5-9c52-560d02376305" alt="AOV" width="330" height="500">
+  <img src="https://github.com/user-attachments/assets/47030e77-a99a-4320-8df9-0037f394a3d2" alt="Order Count" width="330" height="500">
 </p>
 
 <p><b>Total Sales – Growth Insights</b></p>
