@@ -107,10 +107,12 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 
 # Insights Deep Dive
 ## Growth Trends
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/47ef0da6-57fe-4ca1-ba99-4f377a8c0e12" alt="Total Sales" width="330" height="500">
-  <img src="https://github.com/user-attachments/assets/822971c6-4830-4bf5-9c52-560d02376305" alt="AOV" width="330" height="500">
-  <img src="https://github.com/user-attachments/assets/47030e77-a99a-4320-8df9-0037f394a3d2" alt="Order Count" width="330" height="500">
+<p align="center"> <img width="1825" height="417" alt="image" src="https://github.com/user-attachments/assets/4c770df4-e273-4a75-bcad-ccc4279fae01" />
+
+
+
+  
+
 </p>
 
 <p><b>Total Sales – Growth Insights</b></p>
