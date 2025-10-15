@@ -194,7 +194,9 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 ## Product Trends
 
 <p align="left">
-<img width="1258" height="622" alt="image" src="https://github.com/user-attachments/assets/043f612e-f806-41ae-9178-c4d54b8d9101" />
+<img width="1605" height="925" alt="image" src="https://github.com/user-attachments/assets/f84771f8-e41a-4d2d-a933-76b199e00db0" />
+
+
 
 
 </p>
