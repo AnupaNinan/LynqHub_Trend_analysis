@@ -107,7 +107,8 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 
 # Insights Deep Dive
 ## Growth Trends
-<p align="center"> <img width="1825" height="417" alt="image" src="https://github.com/user-attachments/assets/4c770df4-e273-4a75-bcad-ccc4279fae01" />
+<p align="center"> <img width="1833" height="428" alt="image" src="https://github.com/user-attachments/assets/1b93c2f0-54db-4d02-846c-4c94152dd0d3" />
+
 
 
 
@@ -193,10 +194,9 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 ## Product Trends
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/0ca7eba8-420c-495d-b951-35e30e3bafbb" 
-       alt="Product Trends" 
-       width="1000" 
-       height="500">
+<img width="1258" height="622" alt="image" src="https://github.com/user-attachments/assets/043f612e-f806-41ae-9178-c4d54b8d9101" />
+
+
 </p>
 <ul>
   <li><b>Revenue Concentration Risk:</b> The top three products contribute the majority of total revenue, signaling a potential dependency on a limited product mix. Diversifying beyond high-performing categories could mitigate risk from market saturation or inventory shifts.</li>
@@ -211,10 +211,8 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 ## Geographical Trends
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b3c8f367-7fb5-43bd-a2a1-3914da34c409" 
-       alt="Product Trends" 
-       width="1000" 
-       height="600">
+ <img width="1596" height="923" alt="image" src="https://github.com/user-attachments/assets/822415c0-a60e-49a1-b108-5bb883c67007" />
+
 </p>
 
 <ul>
@@ -231,10 +229,8 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 ## Loyalty Program
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/e049236a-aa13-4297-93be-a10cb8cb8522" 
-       alt="Product Trends" 
-       width="1000" 
-       height="600">
+  <img width="1587" height="917" alt="image" src="https://github.com/user-attachments/assets/23f2d039-d405-4ff5-b7c4-db00df930904" />
+
 </p>
 
 <ul style="list-style-type: circle;">
@@ -258,10 +254,8 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 ## Refund Rates
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b9c496f4-1ae1-4458-8881-9469e1425095" 
-       alt="Product Trends" 
-       width="1000" 
-       height="800">
+ <img width="1316" height="513" alt="image" src="https://github.com/user-attachments/assets/a9eeb008-3db9-4995-b051-6ecbc399ac67" />
+
 </p>
 <p>Brand-level analysis reveals that <b>Apple (58%)</b> and <b>Gaming Monitor Brands (27%)</b> together account for the majority of refunds, totaling over <b>3,700 returns</b>. 
 Samsung and Lenovo follow with smaller shares of <b>9%</b> and <b>6%</b> respectively.</p>
@@ -301,10 +295,9 @@ Post-2021, refund volumes stabilized, suggesting <b>improvements in product reli
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c830b956-64d1-4829-af8c-f938c95d5c47"
-       alt="Elist Sales Dashboard"
-       width="1000"
-       height="800">
+<img width="1265" height="968" alt="image" src="https://github.com/user-attachments/assets/128eddf1-25a5-400f-ab95-834ebf50b943" />
+
+
 </p>
 
 # Appendix
