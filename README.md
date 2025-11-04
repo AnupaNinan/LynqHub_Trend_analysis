@@ -62,7 +62,8 @@ Key Metrics :
 
 # Executive Summary
 
-<img width="1615" height="911" alt="image" src="https://github.com/user-attachments/assets/d83d10b5-e1ae-4356-afac-17eade798d65" />
+<img width="1575" height="928" alt="image" src="https://github.com/user-attachments/assets/713f94b1-b7b6-40bd-a0f6-2230c8da2401" />
+
 
 <p><b>LynqHub Performance (2018–2022)</b></p>
 
@@ -194,7 +195,9 @@ The company’s <b>average order value (AOV)</b> over this timeframe stood at ro
 ## Product Trends
 
 <p align="left">
-<img width="1605" height="925" alt="image" src="https://github.com/user-attachments/assets/f84771f8-e41a-4d2d-a933-76b199e00db0" />
+<img width="1612" height="921" alt="image" src="https://github.com/user-attachments/assets/676cfdc3-94bb-4ff7-9397-8333f522e93b" />
+
+
 
 
 
